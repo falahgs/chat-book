@@ -1,11 +1,11 @@
 IPython
-onnxruntime==1.16.3
-streamlit==1.29.0
-langchain==0.0.350
-langchain-experimental==0.0.47
-langchain-google-genai==0.0.5
-google-generativeai==0.3.1
-pypdf==3.17.4
+onnxruntime 
+streamlit 
+langchain 
+langchain-experimental 
+langchain-google-genai 
+google-generativeai 
+pypdf 
 chromadb 
 
 
